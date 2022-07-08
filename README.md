@@ -29,19 +29,20 @@ I used Java in Visual Studio Code
 # Future Work
 
 This project could be improved by having a fully functioning way to add, remove, and delete appointments. Additionally, the appointments that already exist should be integrated with a calendar, that can then tell the use which appointments are available to be booked. As of now, the date is just a string which isn't even converted into a date. 
+
 # Resources Used
 
-#Java scanner/user input
+## Java scanner/user input
 https://www.w3schools.com/java/java_user_input.asp
 
-#Java while loop
+## Java while loop
 https://www.w3schools.com/java/java_while_loop.asp
 
 
-#Java convert from string to date(Unimplemented)
+## Java convert from string to date(Unimplemented)
 https://www.baeldung.com/java-string-to-date
 
-#Java methods/returning values from methods
+## Java methods/returning values from methods
 
 
 
