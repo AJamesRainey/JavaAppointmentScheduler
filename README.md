@@ -46,7 +46,7 @@ https://www.baeldung.com/java-string-to-date
 
 
 
-#Updates
+# Updates
 07-05-2022
 User can make an appointment, which gets passed into an array. However, there is no loop to manage user input, and there is also no way to query data from the array. More work is needed. 
 
