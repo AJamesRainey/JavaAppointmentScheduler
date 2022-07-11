@@ -1,16 +1,15 @@
 # Appointment Scheduler in Java
+https://github.com/AJamesRainey/JavaAppointmentScheduler
 
-The program should ideally be able to add, query, and delete from an array. 
+A program in Java able to add, query, and delete appointments from an array. 
 
 
 # Overview
 
-
-
 This is a program to develop my skills in Java as well as general programming. The purpose of the program is to be able to create, keep, and delete appointments all in an array. 
 
 
-[Software Demo Video](https://www.loom.com/share/6ac8305c2c9b44a49f9c3bc79f2af549)
+[Software Demo Video](https://www.loom.com/share/92ac98f83df343f38998121f35a3e5ad)
 
 # Results
 
